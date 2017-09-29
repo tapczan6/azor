@@ -1,3 +1,3 @@
 # azor
 
-* azor to kot
+* azor to pies
